@@ -3,8 +3,8 @@ import XCTest
 class MovieListInteractorTest: XCTestCase {
     
     private let movieA = Movie(title: "TestMovie_A", posterURL: URL(string: "https://image.tmdb.org/t/p/w370_and_h556_bestv2/gri0DDxsERr6B2sOR1fGLxLpSLx.jpg")!, year: 1999, genre: "Action")
-    private let movieB = Movie(title: "TestMovie_B", posterURL: URL(string: "https://raw.githubusercontent.com/cesarferreira/sample-data/master/public/posters/038024.jpg")!, year: 2001, genre: "Comedy")
-    private let movieC = Movie(title: "TestMovie_C", posterURL: URL(string: "https://raw.githubusercontent.com/cesarferreira/sample-data/master/public/posters/038030.jpg")!, year: 2016, genre: "Romance")
+    private let movieB = Movie(title: "TestMovie_B", posterURL: URL(string: "https://raw.githubusercontent.com/mashbytes/smdb/master/Web/thumbnails/038024.jpg")!, year: 2001, genre: "Comedy")
+    private let movieC = Movie(title: "TestMovie_C", posterURL: URL(string: "https://raw.githubusercontent.com/mashbytes/smdb/master/Web/thumbnails/038030.jpg")!, year: 2016, genre: "Romance")
 
     
     func testUsesSourceToFetchMovies() {
