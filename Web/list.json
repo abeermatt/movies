@@ -8,7 +8,8 @@
 			"cast": "Sullivan Stapleton, Eva Green, Lena Headey",
 			"director": "Noam Murro",
 			"year": "2014",
-			"trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+			"trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps",
+			"genre": "Action"
 		},
 		{
 			"id": "038002",
@@ -18,7 +19,8 @@
 			"cast": "Matt Damon, Jodie Foster, Sharlto Copley",
 			"director": "Neill Blomkamp",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=oIBtePb-dGY"
+			"trailer": "https://www.youtube.com/watch?v=oIBtePb-dGY",
+			"genre": "Action"
 		},
 		{
 			"id": "038003",
@@ -28,7 +30,8 @@
 			"cast": "Henry Cavill, Amy Adams, Michael Shannon",
 			"director": "Zack Snyder",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=T6DJcgm3wNY"
+			"trailer": "https://www.youtube.com/watch?v=T6DJcgm3wNY",
+			"genre": "Action"
 		},
 		{
 			"id": "038004",
@@ -38,7 +41,8 @@
 			"cast": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
 			"director": "Alan Taylor",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=npvJ9FTgZbM"
+			"trailer": "https://www.youtube.com/watch?v=npvJ9FTgZbM",
+			"genre": "Action"
 		},
 		{
 			"id": "038005",
@@ -48,7 +52,8 @@
 			"cast": "Hugh Jackman, Will Yun Lee, Tao Okamoto",
 			"director": "James Mangold",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=WEbzZP-_Ssc"
+			"trailer": "https://www.youtube.com/watch?v=WEbzZP-_Ssc",
+			"genre": "Action"
 		},
 		{
 			"id": "038006",
@@ -58,7 +63,8 @@
 			"cast": "Channing Tatum, Jamie Foxx, Maggie Gyllenhaal ",
 			"director": "Roland Emmerich",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=hVdXl-_DvZk"
+			"trailer": "https://www.youtube.com/watch?v=hVdXl-_DvZk",
+			"genre": "Action"
 		},
 		{
 			"id": "038007",
@@ -68,7 +74,8 @@
 			"cast": "Katie Aselton, Lake Bell, Kate Bosworth",
 			"director": "Katie Aselton",
 			"year": "2012",
-			"trailer": "https://www.youtube.com/watch?v=8u756yHZ_Ww"
+			"trailer": "https://www.youtube.com/watch?v=8u756yHZ_Ww",
+			"genre": "Action"
 		},
 		{
 			"id": "038008",
@@ -78,17 +85,8 @@
 			"cast": "Chris Pine, Zachary Quinto, Zoe Saldana",
 			"director": "J.J. Abrams",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=QAEkuVgt6Aw"
-		},
-		{
-			"id": "038009",
-			"title": "300 Rise of an Empire",
-			"poster": "https://raw.githubusercontent.com/mashbytes/smdb/master/Web/thumbnails/038009.jpg",
-			"summary": "In 1933, in San Francisco, a boy visits the Wild West in a sideshow and meets an elderly Tonto in a chamber and the Comanche tells the story of The Lone Ranger to him. In 1869, the idealistic prosecutor John Reid returns by train to his hometown Colby. In the same train, it is traveling the criminal Butch Cavendish that will be judged for his crimes and hanged in the town due to a request of Latham Cole, who represents the railroad company. However, Butch escapes and John rides with his brother Dan Reid and six other Texas Rangers to capture him. However, the rangers are ambushed and killed by the notorious outlaw and his gang and only John survives. He teams up with Tonto to bring Butch Cavendish to justice in a dangerous journey of discoveries.",
-			"cast": "Johnny Depp, Armie Hammer, William Fichtner",
-			"director": "Gore Verbinski",
-			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=JjFsNSoDZK8"
+			"trailer": "https://www.youtube.com/watch?v=QAEkuVgt6Aw",
+			"genre": "Sci-Fi"
 		},
 		{
 			"id": "038010",
@@ -98,7 +96,8 @@
 			"cast": "Brad Pitt, Mireille Enos, Daniella Kertesz",
 			"director": "Marc Forster",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=Md6Dvxdr0AQ"
+			"trailer": "https://www.youtube.com/watch?v=Md6Dvxdr0AQ",
+			"genre": "Action"
 		},
 		{
 			"id": "038011",
@@ -108,7 +107,8 @@
 			"cast": "Chris Pine, Zachary Quinto, Simon Pegg",
 			"director": "J.J. Abrams",
 			"year": "2009",
-			"trailer": "https://www.youtube.com/watch?v=pKFUZ10Wmbw"
+			"trailer": "https://www.youtube.com/watch?v=pKFUZ10Wmbw",
+			"genre": "Action"
 		},
 		{
 			"id": "038012",
@@ -118,7 +118,8 @@
 			"cast": "Michael Biehn, Jeannine Kaspar, Electra Avellan",
 			"director": "Patricio Valladares",
 			"year": "2014",
-			"trailer": "https://www.youtube.com/watch?v=XSvatfT5fO4"
+			"trailer": "https://www.youtube.com/watch?v=XSvatfT5fO4",
+			"genre": "Thriller"
 		},
 		{
 			"id": "038013",
@@ -128,7 +129,8 @@
 			"cast": "Johnny Depp, Geoffrey Rush, Javier Bardem",
 			"director": "Joachim Rønning, Espen Sandberg",
 			"year": "2017",
-			"trailer": "https://www.youtube.com/watch?v=Ak9DOPQ0Mhg"
+			"trailer": "https://www.youtube.com/watch?v=Ak9DOPQ0Mhg",
+			"genre": "Action"
 		},
 		{
 			"id": "038014",
@@ -138,7 +140,8 @@
 			"cast": "Jennifer Lawrence, Robert De Niro, Bradley Cooper",
 			"director": "David O. Russell",
 			"year": "2015",
-			"trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+			"trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps",
+			"genre": "Drama"
 		},
 		{
 			"id": "038015",
@@ -148,7 +151,8 @@
 			"cast": "Zoey Deutch, Halston Sage, Cynthy Wu",
 			"director": "Ry Russo-Young",
 			"year": "2017",
-			"trailer": "https://www.youtube.com/watch?v=q3Zyy4ZXegE"
+			"trailer": "https://www.youtube.com/watch?v=q3Zyy4ZXegE",
+			"genre": "Drama"
 		},
 		{
 			"id": "038016",
@@ -158,7 +162,8 @@
 			"cast": "Gal Gadot, Chris Pine, Robin Wright ",
 			"director": "Patty Jenkins",
 			"year": "2017",
-			"trailer": "https://www.youtube.com/watch?v=VSB4wGIdDwo"
+			"trailer": "https://www.youtube.com/watch?v=VSB4wGIdDwo",
+			"genre": "Action"
 		},
 		{
 			"id": "038017",
@@ -178,7 +183,8 @@
 			"cast": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams",
 			"director": "Scott Derrickson",
 			"year": "2016",
-			"trailer": "https://www.youtube.com/watch?v=HSzx-zryEgM"
+			"trailer": "https://www.youtube.com/watch?v=HSzx-zryEgM",
+			"genre": "Action"
 		},
 		{
 			"id": "038019",
@@ -188,7 +194,8 @@
 			"cast": "Saoirse Ronan, Cate Blanchett, Eric Bana",
 			"director": "Joe Wright",
 			"year": "2011",
-			"trailer": "https://www.youtube.com/watch?v=u73CLdHpbNk"
+			"trailer": "https://www.youtube.com/watch?v=u73CLdHpbNk",
+			"genre": "Action"
 		},
 		{
 			"id": "038020",
@@ -198,7 +205,8 @@
 			"cast": "Megan Fox, Will Arnett, Tyler Perry",
 			"director": "Dave Green",
 			"year": "2016",
-			"trailer": "https://www.youtube.com/watch?v=3CKgLNGfdSM"
+			"trailer": "https://www.youtube.com/watch?v=3CKgLNGfdSM",
+			"genre": "Action"
 		},
 		{
 			"id": "038021",
@@ -208,7 +216,8 @@
 			"cast": "Lucas Till, Stephen McHattie, John Pyper-Ferguson",
 			"director": "David Hayter",
 			"year": "2014",
-			"trailer": "https://www.youtube.com/watch?v=ZN71HDzBQjU"
+			"trailer": "https://www.youtube.com/watch?v=ZN71HDzBQjU",
+			"genre": "Action"
 		},
 		{
 			"id": "038022",
@@ -218,7 +227,8 @@
 			"cast": "Saoirse Ronan, Max Irons, Jake Abel",
 			"director": "Andrew Niccol",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=uNeCnKKHGE4"
+			"trailer": "https://www.youtube.com/watch?v=uNeCnKKHGE4",
+			"genre": "Action"
 		},
 		{
 			"id": "038023",
@@ -228,7 +238,8 @@
 			"cast": "Jason Momoa, Ron Perlman, Rose McGowan",
 			"director": "Marcus Nispel",
 			"year": "2011",
-			"trailer": "https://www.youtube.com/watch?v=P3L7tRQzDEQ"
+			"trailer": "https://www.youtube.com/watch?v=P3L7tRQzDEQ",
+			"genre": "Action"
 		},
 		{
 			"id": "038024",
@@ -238,7 +249,8 @@
 			"cast": "Lily Collins, Jamie Campbell Bower, Robert Sheehan",
 			"director": "Harald Zwart",
 			"year": "2013",
-			"trailer": "https://www.youtube.com/watch?v=GHlwRsl2uFk"
+			"trailer": "https://www.youtube.com/watch?v=GHlwRsl2uFk",
+			"genre": "Action"
 		},
 		{
 			"id": "038025",
@@ -248,7 +260,8 @@
 			"cast": "Jessica Lowndes, Joe Anderson, Lin Shaye",
 			"director": "Darren Lynn Bousman",
 			"year": "2016",
-			"trailer": "https://www.youtube.com/watch?v=dUI5tBtfgCk"
+			"trailer": "https://www.youtube.com/watch?v=dUI5tBtfgCk",
+			"genre": "Horror"
 		},
 		{
 			"id": "038026",
@@ -258,7 +271,8 @@
 			"cast": "Keanu Reeves, Lorenza Izzo, Ana de Armas",
 			"director": "Eli Roth",
 			"year": "2016",
-			"trailer": "https://www.youtube.com/watch?v=ti6S3NZ5mKI"
+			"trailer": "https://www.youtube.com/watch?v=ti6S3NZ5mKI",
+			"genre": "Drama"
 		},
 		{
 			"id": "038027",
@@ -268,7 +282,8 @@
 			"cast": "Neel Sethi, Bill Murray, Ben Kingsley",
 			"director": "Jon Favreau",
 			"year": "2016",
-			"trailer": "https://www.youtube.com/watch?v=5mkm22yO-bs"
+			"trailer": "https://www.youtube.com/watch?v=5mkm22yO-bs",
+			"genre": "Adventure"
 		},
 		{
 			"id": "038028",
@@ -278,7 +293,8 @@
 			"cast": "Jason Patric, Louisa Krause, Mark Margolis",
 			"director": "Eytan Rockaway",
 			"year": "2015",
-			"trailer": "https://www.youtube.com/watch?v=mdlpQe4Jsa8"
+			"trailer": "https://www.youtube.com/watch?v=mdlpQe4Jsa8",
+			"genre": "Horror"
 		},
 		{
 			"id": "038029",
@@ -288,7 +304,8 @@
 			"cast": "Jennifer Lawrence, Chris Pratt, Michael Sheen",
 			"director": "Morten Tyldum",
 			"year": "2016",
-			"trailer": "https://www.youtube.com/watch?v=7BWWWQzTpNU"
+			"trailer": "https://www.youtube.com/watch?v=7BWWWQzTpNU",
+			"genre": "Drama"
 		},
 		{
 			"id": "038030",
@@ -298,7 +315,8 @@
 			"cast": "Paul Giamatti, George Clooney, Philip Seymour Hoffman",
 			"director": "George Clooney",
 			"year": "2011",
-			"trailer": "https://www.youtube.com/watch?v=y494hUO-aw8"
+			"trailer": "https://www.youtube.com/watch?v=y494hUO-aw8",
+			"genre": "Drama"
 		}
 	]
 }

@@ -10,7 +10,7 @@ class RemoteMovieSource: MovieSource {
     
     func fetchMovies(callback: @escaping MoviesCallback) {
 
-        var request = URLRequest(url: URL(string: "https://movies-sample.herokuapp.com/api/movies")!)
+        var request = URLRequest(url: URL(string: "https://raw.githubusercontent.com/mashbytes/movies/master/Web/list.json")!)
         request.httpMethod = HTTPMethod.get.rawValue
         
         requester.fetchData(forRequest: request) { result in
